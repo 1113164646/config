@@ -16,4 +16,4 @@ spring:
     name: user-service
 
 user:
-  time: jj
+  time: sss
